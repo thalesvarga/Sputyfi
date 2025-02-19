@@ -1,0 +1,22 @@
+{
+  "name": "sputyfi",
+  "version": "1.0.0",
+  "description": "Sputyfi é um projeto full-stack que desenvolvi como meu primeiro projeto utilizando **React** no front-end e um back-end próprio para gerenciar os dados. O objetivo é simular um player de música funcional, permitindo reproduzir áudio, navegar entre faixas e exibir informações sobre as músicas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm run start --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalesvarga/Sputyfi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thalesvarga/Sputyfi/issues"
+  },
+  "homepage": "https://github.com/thalesvarga/Sputyfi#readme"
+}
