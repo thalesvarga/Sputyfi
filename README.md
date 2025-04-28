@@ -3,6 +3,8 @@
 
 Sputyfi é um projeto full-stack que desenvolvi como meu primeiro projeto utilizando **React** no front-end e um back-end próprio para gerenciar os dados. O objetivo é simular um player de música funcional, permitindo reproduzir áudio, navegar entre faixas e exibir informações sobre as músicas.
 
+Link do site: https://sputyfi.onrender.com/
+
 ---
 
 ## 🔥 Tecnologias Utilizadas
